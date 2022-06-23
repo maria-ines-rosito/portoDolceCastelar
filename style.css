@@ -1,0 +1,80 @@
+body {
+	margin: 20px;
+  background-color: black;
+}
+
+
+h1{
+  background-color: black;
+  color: whitesmoke;
+}
+
+h3 {
+  color: darkred;
+  
+}
+
+h4 {
+  text-align: left;
+  border-bottom: ridge;
+}
+
+ul {
+  text-align: center;
+ list-style-type: none;
+}
+
+.row {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+.banner{
+  text-align: center;
+}
+
+
+.redessociales {
+	text-align: center;
+	border-style: double;
+	background-color: white;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+
+iframe {
+	text-align: center;
+}
+
+section {
+	
+	text-align: center;
+	border-style: double;
+	margin-top: 70px;
+	margin-bottom: 40px;
+  margin-left: 35px;
+  margin-right: 35px;
+  padding-left: 40px;
+  padding-right:40px ;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: white;
+}
+
+footer {
+background-color: black;
+color: white ;
+text-align: center;
+padding-top: 5px;
+padding-bottom: 5px;
+
+}
+
+.carousel{
+	height: 640px;
+	width: 520px;
+	
+}
+
